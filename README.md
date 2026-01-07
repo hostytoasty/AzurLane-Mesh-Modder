@@ -1,4 +1,4 @@
-# Azur-Lane-Mesh-Modder
+# Azur Lane Mesh Modder
 Python script to create modded bundle from image
 
 Before you start
